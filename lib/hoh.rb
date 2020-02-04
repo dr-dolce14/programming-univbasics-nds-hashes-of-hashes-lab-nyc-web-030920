@@ -13,7 +13,7 @@
 #     }
 #   }
 # }
-:label=> "Kingdom", :sub_category=> {:label=> "Phlyum", :sub_category=> {:label=> "Class"}},
+:label=> "Kingdom", :sub_category=> {:label=> "Phlyum", :sub_category=> {:label=> "Class"},
 # 
 # PORTION_2 = {
 #   label: "Order"
